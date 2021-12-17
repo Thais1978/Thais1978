@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thais1978;
+- 👀 I’m interested in languages;
+- 🌱 I’m currently learning Python;
+- Learning mode ON!
